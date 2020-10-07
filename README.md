@@ -1,1 +1,1 @@
-This is a repository for my first ever mapbox map, a map of breweries I like in Minnesota.
+This is a repository for a map for the Great Brooklyn Pumpkin Hunt.
